@@ -1,0 +1,28 @@
+{
+    "education": [
+      {
+        "degree": "Economics Degree In High School",
+        "school": "Nola Gymnasiet",
+        "year": "2021"
+      },
+      {
+        "degree": "System Developer .NET with AI",
+        "school": "Edugrade",
+        "year": "Not Done Yet"
+      }
+    ],
+    "workExperience": [
+      {
+        "title": "Assistant Teacher",
+        "company": "Köpmanholmen Skolan",
+        "dates": "December 2021 – June 2023",
+        "description": "In my role as an Assistant Teacher at Köpmanholmenskolan, I actively contributed to the students' educational experience. Key responsibilities included:Supported lead teachers in the development and implementation of engaging lesson plans tailored to various learning styles.Fostered a positive and inclusive classroom environment, promoting an atmosphere conducive to learning and growth.Provided individualized support to students, addressing their unique needs and contributing to their academic and social development.Collaborated with teaching staff to evaluate student progress and provided valuable insights to improve classroom efficiency.Participated in parent-teacher meetings to maintain open communication and support the holistic development of students."
+      },
+      {
+        "title": "Welder/Plumber",
+        "company": "Örnsköldsvik Rörteknik",
+        "dates": "June 2021 – December 2021",
+        "description": "In the role of Welder/Plumer at Örnsköldsviks Rörteknik, I played a central role in ensuring the successful execution of various projects. My responsibilities included: Skillfully performed MIG, TIG, and arc welding to manufacture and assemble metal structures, ensuring precision and structural integrity. Conducted precise plumbing installations and repairs, showcasing expertise in diagnosing and resolving plumbing issues. Collaborated closely with a diverse team to meet project deadlines and promote a positive and efficient work environment. Implemented rigorous safety measures to guarantee a secure workplace for all team members, adhering to industry standards."
+      }
+    ]
+  }
