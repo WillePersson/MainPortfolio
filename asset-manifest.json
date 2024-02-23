@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MainPortfolio/static/css/main.4ffd8930.css",
+    "main.js": "/MainPortfolio/static/js/main.4029d78c.js",
+    "static/js/592.6647c214.chunk.js": "/MainPortfolio/static/js/592.6647c214.chunk.js",
+    "static/media/Programming-amico.png": "/MainPortfolio/static/media/Programming-amico.115ab56b7215030b23a2.png",
+    "static/media/DSC01729.jpg": "/MainPortfolio/static/media/DSC01729.aac22294c47f60032187.jpg",
+    "index.html": "/MainPortfolio/index.html",
+    "main.4ffd8930.css.map": "/MainPortfolio/static/css/main.4ffd8930.css.map",
+    "main.4029d78c.js.map": "/MainPortfolio/static/js/main.4029d78c.js.map",
+    "592.6647c214.chunk.js.map": "/MainPortfolio/static/js/592.6647c214.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ffd8930.css",
+    "static/js/main.4029d78c.js"
+  ]
+}
